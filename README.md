@@ -1,9 +1,9 @@
 # Salom, men Mukhammadsher! 👋
 
 ### 👨‍💻 Men haqimda:
-- 🚀 **Full-Stack / Frontend (React) Developer**
+- 🚀 **Frontend (React) Developer**
 - 🎓 **TATU FF** (Farg'ona filiali) talabasiman.
-- 📍 **Andijon, O'zbekiston**
+- 📍 **Andijon,Fergana,Tashkent O'zbekiston**
 
 ---
 
@@ -21,11 +21,9 @@
 
 ### 📊 Mening GitHub statistikalarim:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher0317&show_icons=true&theme=dark&bg_color=1f222e&title_color=61dafb&icon_color=61dafb" alt="Mening statistikalarim" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadsher0317&theme=dark" alt="Mening statistikalarim" />
 </p>
-<a href="tel:+998934110317">
-    <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=quicktime&logoColor=white" alt="Telefon" />
-  </a>
+
 
 ---
 
@@ -34,7 +32,7 @@
   <a href="https://t.me/Inomjonov_0317" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="tel:+998934110317">
+ <a href="tel:+998934110317">
     <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=quicktime&logoColor=white" alt="Telefon" />
   </a>
 </p>
