@@ -23,9 +23,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher0317&show_icons=true&theme=dark&bg_color=1f222e&title_color=61dafb&icon_color=61dafb" alt="Mening statistikalarim" />
 </p>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadsher0317&theme=dark" alt="Mening streaklarim" />
-</p>
+<a href="tel:+998934110317">
+    <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=quicktime&logoColor=white" alt="Telefon" />
+  </a>
 
 ---
 
