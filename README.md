@@ -21,8 +21,10 @@
 
 ### 📊 Mening GitHub statistikalarim:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher0317&show_icons=true&theme=radial&hide_border=true" alt="Mening statistikalarim" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadsher0317&theme=radial&hide_border=true" alt="Mening streaklarim" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher0317&show_icons=true&theme=dark&bg_color=1f222e&title_color=61dafb&icon_color=61dafb" alt="Mening statistikalarim" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadsher0317&theme=dark" alt="Mening streaklarim" />
 </p>
 
 ---
@@ -32,7 +34,7 @@
   <a href="https://t.me/Inomjonov_0317" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:inomovmuxammadsher@gmail.com">
+  <a href="inomovmuxammadsher@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
