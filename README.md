@@ -34,7 +34,7 @@
   <a href="https://t.me/Inomjonov_0317" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="inomovmuxammadsher@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="tel:+998934110317">
+    <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=quicktime&logoColor=white" alt="Telefon" />
   </a>
 </p>
